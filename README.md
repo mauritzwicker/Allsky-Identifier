@@ -11,3 +11,7 @@ Then one can plot the row/column - wise distributions of measured counts of the 
 Gaussians will be fitted over this to determine the FWHM and size of the star/object.<br/>
 <img src="images/mars_hists.png" width = 400>
 <img src="images/mars_ident.png" width = 400>
+<br/>
+<br/>
+Optionally can also produce image like this for orientation of night sky.<br/>
+<img src="images/orientedsky.png" width = 400>
