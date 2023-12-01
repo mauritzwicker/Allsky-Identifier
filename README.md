@@ -1,6 +1,8 @@
 # Allsky-Identifier
 ### To Identify Stars in an Allsky-image and determine their FWHM
 
+# !!! NOT FULLY FUNCTIONING, INDIVIDUAL THINGS WORKING BUT NOT AS A WHOLE REPO !!!
+
 Needs to be adapted depending on the orientation of one camera (images).<br/>
 In parameters.py change location and other parameters according to location/requirements.<br/>
 
